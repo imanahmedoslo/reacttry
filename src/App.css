@@ -45,6 +45,8 @@
   box-sizing: border-box;
   border: 5px solid black;
   overflow: auto;
+  background-color: white;
+  color: black;
 }
 .list{
   display: flex;

@@ -6,8 +6,9 @@ import logo from './blueFlower.jpg'
 function App() {
   return (
     <div className="App">
-      <div className="navBar"> velkommen tilbake</div>
+      
       <header className="App-header">
+      <div className="navBar"> velkommen tilbake</div>
         <div className='app-main'>
           <div className='space'></div>
         <img src={logo} className="App-logo"/>
