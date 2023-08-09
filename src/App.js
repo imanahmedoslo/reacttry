@@ -9,7 +9,7 @@ function App() {
     <div className="  wrapper container h-screen m-auto  inline-grid grid-cols-4 grid-rows-6 md:grid-cols-5 lg:grid-cols-8 gap-4">
       <div className=" flex flex-row tile row-start-1 col-start-1 col-span-full self-center rounded justify-between">
         <img src={logo} alt='img.png' className=' h-9 w-9 ml-3'/>
-        <div className=' text-lg font-bold'>My Little Blog</div>
+        <div className=' text-lg font-bold'>My Little Blog.</div>
         <img src={dropDown} alt='img.png' className=' h-10 w-10 mr-3 '/>
 
       </div>
